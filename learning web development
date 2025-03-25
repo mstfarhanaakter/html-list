@@ -1,1 +1,59 @@
 <!doctype html>                                                  <!doctype html<
+<html>
+<body>
+<p style="font-size:40px;"><b> Learing Web Development</b></p>
+<ol type="I">
+<li>Background Skills
+  <ol Type="A">
+<li>Unix Commands</li>
+<li>Vim Text Editorr</li>
+  </ol>
+      <li>HTML
+    <ol type="A">
+<li>Minimal Page></li>
+<li>Headings</li>
+<li>Tage</li>
+<li>Lists
+      <ol type="i">
+    <li>Unordered</li>
+    <li>Ordered</li>
+    <li>Defination</li>
+    <li>Nested</li>
+</ol> </li>
+<li>Links
+  <ol type="i">
+      <li>Absoluate</li>
+      <li>Relative</li>
+</ol>
+</li>
+<li>Images</li>
+            </ol>
+<li>Css
+  <ol type="A>
+<li>Anatomy</li>
+  <li>Basic Selectors
+<ol type="i">
+    <li>Element</li>
+    <li>Class</li>
+    <li>ID</li>
+    <li>Group></li>
+</ol>
+</li>
+    <li>The DOM</li>
+    <li>Advance Selectors</li>
+    <li>Box Model</li>
+</li>
+      <li>Programming
+            <ol type="A">
+                <li>Python</li>
+                <li>Javascript</li>
+      </li>
+<li>Database
+    <ol type="A">
+        <li>Flat File</li>
+        <li>Relational</li>
+    </ol>
+</li>
+</ol>
+</body>
+</html>
